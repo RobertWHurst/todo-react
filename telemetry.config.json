@@ -1,0 +1,9 @@
+{
+  "name": "moz-todo-react",
+  "version": "0.3.0",
+  "description": "A simple todo list application built with React",
+  "mountPoints": {
+    "render": "/"
+  },
+  "useSpaRouting": true
+}
